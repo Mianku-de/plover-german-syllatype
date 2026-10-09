@@ -1,3 +1,8 @@
+# Personal Notes
+
+Ich habe Yamero auf Discord nicht entdeckt und auch keine weiteren Kontaktdetails gefunden.
+Außerdem schien es mir so, als könne man Änderungen beim Original-Repository nicht zufügen/beantragen.
+
 # YAMERO's German Syllatype
 
 This is the system plugin for YAMERO's German Syllatype system, designed by [YAMERO](https://github.com/YAMEROOOO) and implemented by [Kaoffie](https://github.com/Kaoffie).
