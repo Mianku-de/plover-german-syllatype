@@ -82,6 +82,8 @@ g: K*
 h: -F*
 h: F*
 i: I
+j: -SF
+j: SF
 k: -K
 k: K
 l: -R>
