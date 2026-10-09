@@ -1,9 +1,14 @@
-# Personal Notes
+# Eigene Anmerkungen
 
 Ich habe Yamero auf Discord nicht entdeckt und auch keine weiteren Kontaktdetails gefunden.  
 Außerdem schien es mir so, als könne man Änderungen beim Original-Repository nicht zufügen/beantragen.  
 Lizenzbedingungen habe ich auch keine entdeckt.  
 Falls das jemand außer mir findet: Dies sind nur inoffizielle Experimente.
+
+## Probleme & Lösungen
+
+"für" wurde oft als "üfr" gesetzt -> Plover > Configure > Output > Key Press delay (ms): 5-10.  
+Ich selbst habe 10. Für "für" hatten 5 gereicht, aber ein anderes Wort machte ähnliche Probleme.
 
 # YAMERO's German Syllatype
 
