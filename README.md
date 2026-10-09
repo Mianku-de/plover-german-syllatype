@@ -3,7 +3,7 @@
 Ich habe Yamero auf Discord nicht entdeckt und auch keine weiteren Kontaktdetails gefunden.  
 Außerdem schien es mir so, als könne man Änderungen beim Original-Repository nicht zufügen/beantragen.  
 Lizenzbedingungen habe ich auch keine entdeckt.  
-Falls das jemand außer mir findet: Dies sind nur inoffizielle Experimente.
+Falls das jemand außer mir benutzt: Dies sind nur inoffizielle Experimente.
 
 ## Probleme & Lösungen
 
