@@ -7,8 +7,15 @@ Falls das jemand außer mir benutzt: Dies sind nur inoffizielle Experimente.
 
 ## Probleme & Lösungen
 
-"für" wurde oft als "üfr" gesetzt -> Plover > Configure > Output > Key Press delay (ms): 5-10.  
-Ich selbst habe 10. Für "für" hatten 5 gereicht, aber ein anderes Wort machte ähnliche Probleme.
+1)  
+Problem: "für" wurde oft als "üfr" gesetzt; ebenso betroffen waren "jä" und "jü"
+Lösung: Plover > Configure > Output > Key Press delay (ms): 5-10.  
+Ich selbst habe 10.  
+Für "für" hatten 5 gereicht, aber "jä/jü" wurden erst bei 10 verlässlich interpretiert.
+
+2) 
+Problem: Bei scheinbar zufälligen Kombos interpretiert mein System (Linux Mint) das als sofortigen Logout  
+Lösung: Suche ich auch noch...
 
 # YAMERO's German Syllatype
 
