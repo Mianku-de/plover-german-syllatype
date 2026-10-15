@@ -44,12 +44,11 @@ SIURNK>:  soll
 F*ERNK^:  Herr
 SERPST*>: selbst
 STAT*PK:  stadt
+T*EUSKFT: deutsch
+STEFT*:   steht
 ---
 
 
-AR>/NRER/T*INSK*: allerdings
-P*E/REITPK:       bereits
-STAT*PK:          Stadt
-NREST*PK:         letzten
----
-
+AR>/NRER/T*INSK*<: allerdings
+P*E/REITPK<:       bereits
+NREST*PK/en<:     letzten
